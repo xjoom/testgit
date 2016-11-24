@@ -1,0 +1,3 @@
+[submodule "modules/moduleX"]
+	path = modules/moduleX
+	url = https://github.com/xjoom/module1
